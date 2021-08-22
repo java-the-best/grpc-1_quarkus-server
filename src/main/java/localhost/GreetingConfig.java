@@ -8,5 +8,4 @@ public interface GreetingConfig {
 
     @WithName("message")
     String message();
-
 }
